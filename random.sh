@@ -1,6 +1,6 @@
 isPresent=1;
 randomCheck=$((RANDOM%3));
-if ( $ispresent -eq $randomCheck ) ;
+if ( $isPresent -eq $randomCheck ) ;
 then
 echo "employee is present";
 else
